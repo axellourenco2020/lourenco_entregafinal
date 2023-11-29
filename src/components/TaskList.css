@@ -1,0 +1,21 @@
+.task-list {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Estilos para el botón de actualización */
+.update-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #2ecc71;
+  color: white;
+  cursor: pointer;
+}
+
+.update-button:hover {
+  background-color: #27ae60;
+}
